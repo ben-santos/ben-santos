@@ -17,8 +17,9 @@ Je travail à titre de Scientifique des Données à Statistique Canada, Gouverne
 Je suis intéressé dans l'apprentissage automatique et les technologies liées à la protection de la vie privée.
 
 - Apprentisage Fédérée
+- Intersection d'Ensembles Privés (PSI) / Techniques de Couplage Préservant la Vie Privée (PPRL)
 - Chiffrement Homomorphique
-- Confidentialité différentielle
+- Confidentialité Différentielle
 - Calcul Multi-Parties
 
 <!--
