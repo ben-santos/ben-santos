@@ -8,7 +8,7 @@ I'm interested in Machine Learning and Privacy Enhancing Techniques.
 - Private Set Intersection / Privacy-Preserving Record Linkage
 - Homomorphic Encryption
 - Differential Privacy
-- Multiparty Computation
+- Secure Multi-Party Computation
 
 ### Allô 👋, Je suis Benjamin Santos!
 ---
@@ -16,11 +16,11 @@ Je travail à titre de Scientifique des Données à Statistique Canada, Gouverne
 
 Je suis intéressé dans l'apprentissage automatique et les technologies liées à la protection de la vie privée.
 
-- Apprentisage Fédérée
-- Intersection d'Ensembles Privés (PSI) / Techniques de Couplage Préservant la Vie Privée (PPRL)
-- Chiffrement Homomorphique
-- Confidentialité Différentielle
-- Calcul Multi-Parties
+- Apprentisage fédérée
+- Intersection d'ensembles privés (PSI) / Techniques de couplage préservant la vie privée (PPRL)
+- Chiffrement homomorphique
+- Confidentialité différentielle
+- Calcul multipartite sécurisée
 
 <!--
 **ben-santos/ben-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
