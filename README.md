@@ -2,24 +2,26 @@
 ---
 I'm a Data Scientist working in Statistics Canada, Government of Canada.
 
-I'm interested in Machine Learning and Privacy Enhancing Techniques.
+I'm working in Machine Learning and Privacy Enhancing Techniques.
 
 - Federated Learning
 - Private Set Intersection / Privacy-Preserving Record Linkage
 - Homomorphic Encryption
 - Differential Privacy
+- Synthetic Data
 - Secure Multi-Party Computation
 
 ### Allô 👋, Je suis Benjamin Santos!
 ---
 Je travail à titre de Scientifique des Données à Statistique Canada, Gouvernement du Canada.
 
-Je suis intéressé dans l'apprentissage automatique et les technologies liées à la protection de la vie privée.
+Je travaille sur l'apprentissage automatique et les technologies liées à la protection de la vie privée.
 
 - Apprentisage fédérée
 - Intersection d'ensembles privés (PSI) / Techniques de couplage préservant la vie privée (PPRL)
 - Chiffrement homomorphique
 - Confidentialité différentielle
+- Données synthétiques
 - Calcul multipartite sécurisée
 
 <!--
